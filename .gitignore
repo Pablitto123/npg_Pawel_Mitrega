@@ -1,1 +1,6 @@
 /jakisplik.txt
+logs/
+build/
+*.pdf
+*.tmp
+*.log
